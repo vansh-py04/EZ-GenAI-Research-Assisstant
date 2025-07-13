@@ -14,19 +14,19 @@ An intelligent document-aware assistant built with Google Gemini and Streamlit t
  Maintains memory of all interactions
 
  # Features
-✅ Upload and Auto-Summary
+## ✅ Upload and Auto-Summary
 
 Upload .pdf or .txt documents
 
 Get a concise summary immediately on upload
 
-💬 Ask Anything Mode
+## 💬 Ask Anything Mode
 
 Ask any question based on the uploaded document
 
 Gemini answers with context and references paragraph numbers
 
-🎯 Challenge Me Mode
+## 🎯 Challenge Me Mode
 
 App generates 3 reasoning/comprehension-based questions
 
@@ -34,7 +34,7 @@ Users type their answers
 
 Gemini evaluates and justifies correctness
 
-🧠 Memory Support
+## 🧠 Memory Support
 
 All user interactions are tracked
 
