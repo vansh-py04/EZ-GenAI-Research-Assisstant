@@ -1,4 +1,10 @@
 # EZ Smart Research Assisstant
+
+# Deployed Link
+
+https://ez-genai-research-assisstant.onrender.com
+---
+
 An intelligent document-aware assistant built with Google Gemini and Streamlit that:
 
  Accepts PDF or TXT document uploads
