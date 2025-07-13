@@ -51,3 +51,7 @@ Questions and answers persist across refreshes
 
 # Run the app
     python -m streamlit run app.py
+
+
+# Author
+ Yuganter Pratap
