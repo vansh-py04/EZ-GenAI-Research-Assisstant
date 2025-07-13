@@ -55,6 +55,13 @@ Questions and answers persist across refreshes
 
 ✅ dotenv for managing API keys
 
+# Clone the repo
+    git clone https://github.com/yourusername/genai-doc-assistant.git
+    cd genai-doc-assistant
+
+# Install dependencies 
+    pip install -r requirements.txt
+
 # Run the app
     python -m streamlit run app.py
 
