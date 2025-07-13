@@ -20,6 +20,17 @@ https://ez-genai-research-assisstant.onrender.com
 
 ---
 
+# File Structure
+
+| File               | Description                                    |
+| ------------------ | ---------------------------------------------- |
+| `app.py`           | Main Streamlit app UI & logic                  |
+| `utils.py`         | Document parsing, question extraction, helpers |
+| `prompts.py`       | Gemini prompt templates                        |
+| `.env`             | Store Gemini API key (not tracked)             |
+| `requirements.txt` | Python dependencies                            |
+
+
  # Features
 ## ✅ Upload and Auto-Summary
 
