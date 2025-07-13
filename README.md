@@ -50,4 +50,4 @@ Questions and answers persist across refreshes
 ✅ dotenv for managing API keys
 
 # Run the app
-python -m streamlit run app.py
+    python -m streamlit run app.py
