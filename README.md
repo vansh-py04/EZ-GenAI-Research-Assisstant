@@ -48,3 +48,6 @@ Questions and answers persist across refreshes
 ✅ PyPDF2 for PDF parsing
 
 ✅ dotenv for managing API keys
+
+# Run the app
+python -m streamlit run app.py
